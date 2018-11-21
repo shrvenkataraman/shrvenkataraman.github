@@ -11,7 +11,7 @@ fields:
 - type: file
   name: logo
   label: Logo
-  default: "/uploads/2018/11/21/Logo.jpg"
+  default: "/uploads/2018/11/21/Logo2.jpg"
 - type: field_group_list
   name: navigation
   label: Navigation
